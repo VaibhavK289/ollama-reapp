@@ -2,7 +2,7 @@
 
 Below is the architectural diagram for the project:
 
-![Architectural Diagram](./diagrams/architecture-diagram.png)
+![Architectural Diagram](./diagrams/architecture-diagram.jpg)
 
 ---
 
