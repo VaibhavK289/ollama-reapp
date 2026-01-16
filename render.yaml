@@ -45,7 +45,6 @@ services:
   - type: web
     name: allma-frontend
     runtime: static
-    region: oregon
     plan: free
     branch: main
     rootDir: allma-frontend
